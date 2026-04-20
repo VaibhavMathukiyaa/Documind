@@ -239,4 +239,4 @@ Roadmap
 
 
 Author
-Vaibhav Mathukiya — CS Graduate (MSc Data Science, 107/110)
+Vaibhav Mathukiya — CS Graduate
