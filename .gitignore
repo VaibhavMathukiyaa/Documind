@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+*.egg-info/
+.pytest_cache/
+
+# Environment — NEVER commit secrets
+.env
+.env.local
+.env.*.local
+
+# Data — too large for git
+chroma_db/
+uploads/
+*.pdf
+
+# Node
+node_modules/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.cursor/
+.vscode/
